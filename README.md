@@ -8,6 +8,8 @@
     <li>Understanding of booleans (0 is false and positive numbers are true)</li>
     <li>Calling the setTimeout() method</li>
    </ul>
+<h2>Future</h2>
+<p>In the near future I would like to revist this project and add more events to give the user the ability to move PacMan using the up and down keys.</p>
    <h2>License</h2><br>
    <p>MIT License
 
